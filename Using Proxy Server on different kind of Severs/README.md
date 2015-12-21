@@ -1,6 +1,4 @@
-# HW3 for Distributed System
-
-## There are four types of servers for prototype.
+# There are four types of servers for prototype.
 
 1. SimpleServer.java for simple server
 
